@@ -101,6 +101,7 @@ The `linuxsimba`/`libvirt-udp-tunnel` package repository provides an
     {{%notice note%}}
 
 In this guide, `libvirt` 1.2.16 was verified.
+libvirt is now at version 4.0.0 on Ubuntu 18.04.3.
 
     {{%/notice%}}
 
